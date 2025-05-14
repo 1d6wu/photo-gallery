@@ -22,9 +22,9 @@ This is a photo gallery based on a specific colour scheme using HTML and CSS.
 # First level heading
 ## Second level heading
 ### Third level heading
-**bold text**
-*italic text*
-~~strikethrough text~~
+**bold text**<br>
+*italic text*<br>
+~~strikethrough text~~<br>
 `<p> wow code </p>`
 ```
 <p>block 1</p>
